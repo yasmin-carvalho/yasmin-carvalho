@@ -19,8 +19,6 @@ _______________
 
 Sou apaixonada por tecnologia possuindo uma mentalidade positiva e um desejo selvagem de aprender coisas novas. Desde o início da minha jornada como desenvolvedora front-end tenho trabalhado continuamente para aprimorar minhas habilidades e otimizar meus projetos cada vez mais. O que começou com a curiosidade de construir algo tornou-se uma paixão plena que só me interessa mais com o passar dos anos. 🚀
 
- 
-- 🔭 Estou trabalhando na <a href="https://www.tech4h.com.br/" target="_blank"> Tech4Humans </a> como Full-stack developer
 - 🎓 Estudando Sistemas de Informação na [Universidade Federal de Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🌱 Estou constantemente aprendendo e melhorando minhas habilidades em ReactJS, React Native, NextJS e TypeScript. 💻 📱 ❤️
 
